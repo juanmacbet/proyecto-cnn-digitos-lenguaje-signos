@@ -1,0 +1,14 @@
+tensorflow
+gdown
+numpy
+scikit-learn
+pandas
+seaborn
+matplotlib
+Pillow
+fastapi
+uvicorn
+nest_asyncio
+pyngrok
+requests
+gradio
